@@ -57,6 +57,6 @@ while not station.isconnected() or not successful_post:
         #             succesful_post = station_connected(station)
         #         else:
         #             print("Unable to Connect")
-        station.connect("Ben's iPhone", "5t4ydi4g3g1uz")
+        station.connect("OTPX-Guest","")
         sleep(0.5)
         succesful_post = station_connected(station)
