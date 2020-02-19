@@ -102,4 +102,4 @@ while True:
     #                 sleep(1)
     #             else:
     #                 print("Unable to Connect")
-    sleep(20)
+    sleep(10)
